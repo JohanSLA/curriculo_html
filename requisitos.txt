@@ -1,0 +1,57 @@
+Instrucciones para el Proyecto Final 1 - Currículum en línea
+Especificaciones del proyecto
+
+
+1- Cree un archivo HTML llamado index.html.
+
+2- Use la declaración <!DOCTYPE html> al principio del archivo para indicar que se trata de un documento HTML.
+
+3- Cree una sección de encabezado que incluya un elemento de título con el texto "Mi currículum".
+
+4- Dentro de la sección de cuerpo, escriba código HTML para crear un currículum en línea que cubra los siguientes aspectos:
+
+* Resumen u objetivo
+
+* Educación (enumerar títulos, escuelas y fechas)
+
+* Experiencia laboral (enumerar puestos, empleadores, fechas y responsabilidades)
+
+* Habilidades (enumerar habilidades o áreas de especialización relevantes)
+
+* Premios, certificaciones u otros logros (enumerar cualquier premio, certificación u otros logros relevantes)
+
+* Use etiquetas HTML adecuadas para dar formato al contenido de cada sección, como h1 para encabezados de sección y ul u ol para listas.
+
+5- Use etiquetas HTML para agregar una foto de perfil.
+
+6- Usa etiquetas de anclaje relevantes para crear un sitio web de varias páginas, incluyendo otros aspectos de tu currículum, como aficiones y datos de contacto.
+
+7- Agrega un pie de página con tu nombre y cualquier información sobre derechos de autor u otras exenciones de responsabilidad. (Sugerencia: usa la documentación de MDN para las tareas que no sepas hacer: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
+
+8- Guarda el archivo index.html y ábrelo en un navegador web para asegurarte de que se visualice correctamente.
+
+9- Agrega tu sitio web a tu GitHub para empezar a crear tu portafolio.
+
+10- Publica tu sitio web usando las páginas de GitHub y compártelo aquí (en la sección de preguntas y respuestas) con otros estudiantes.
+
+11- Comenta y haz sugerencias sobre los proyectos de otros estudiantes.
+
+Ejemplo:
+https://appbrewery.github.io/capstone-1-example
+
+Requisitos:
+
+Para que el proyecto se ajuste al alcance (tiempo, energía y recursos), solo puedes usar HTML para completarlo. Incluso si sabes CSS y JS (lo cual asumimos que aún no sabes), se espera que escribas el sitio web solo con HTML.
+
+Imagina que eres un desarrollador profesional trabajando en este proyecto. Habrá cosas que no sepas. Cosas que quieres hacer pero aún no has aprendido cómo. Como desarrollador profesional, necesitas conocer los límites de tus habilidades y buscar información en Google, documentos de MDN e internet.
+
+Preguntas frecuentes
+1. ¿Puedo usar estos proyectos finales en mis entrevistas de trabajo?
+
+¡Sí! Ese es el objetivo de estos proyectos finales. A diferencia de los proyectos de curso, que incluyen código de solución y tutoriales en video, los proyectos finales están pensados ​​para ser completamente tu "trabajo". Hay más de un millón de estudiantes matriculados en este curso de desarrollo web en todo el mundo. Si añades un proyecto de curso a tu portafolio, es muy probable que tu cliente sepa que es de este curso. Los proyectos finales, en cambio, no incluyen código de solución, tutorial ni especificaciones de diseño. Son puramente de tu creación, así que definitivamente pueden considerarse como tu propio trabajo y añadirse a tu portafolio.
+
+Cuando contrato desarrolladores, siempre les pido un portafolio. Considero que lo que han creado es mucho más importante que la universidad a la que asistieron o si tienen un título en informática. Muchos de mis amigos, directores ejecutivos de multinacionales y startups, coinciden.
+
+2. ¿Qué pasa si no recuerdo cómo hacer algo, aunque haya visto todos los videos?
+
+Ver un video no suele ser suficiente para aprender una habilidad. Por eso, estos proyectos finales son una gran oportunidad para identificar tus puntos débiles. Mientras construyes, te encontrarás atascado o se te olvidará cómo hacer las cosas. ¡Genial! Entonces es momento de revisar lecciones anteriores o documentación en línea para completar tus lagunas de conocimiento.
